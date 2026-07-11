@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: Recife Trânsito Dashboard",
+  "description": "Painel de análise de mobilidade urbana, gerenciamento operacional de equipes e planejamento preditivo com inteligência artificial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
